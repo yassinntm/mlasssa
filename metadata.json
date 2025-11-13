@@ -1,0 +1,5 @@
+{
+  "name": "MLASSA Trading Tracker v3",
+  "description": "A comprehensive trading track record application to monitor daily, weekly, and monthly performance. It tracks win rates, TP/SL frequency, and utilizes AI to provide insights and improve your trading strategy.",
+  "requestFramePermissions": []
+}
